@@ -1,0 +1,12 @@
+# Site settings
+title: صناع البسمة
+email: sonaa.bassma@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+instagram_username: sonnaa_el_bassma
+facebook_username: Sonna3Basma
+
+# Build settings
+markdown: kramdown
